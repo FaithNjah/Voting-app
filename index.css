@@ -1,0 +1,67 @@
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(126, 76, 126);
+    height: 70vh;
+    border: 5px solid rgb(255, 213, 228);
+}
+
+.left-photo{
+    width: 250px;
+    height: 50vh;
+    margin: 90px;
+    font-size: 30px;
+    background-color: rgb(238, 231, 245);
+    border-radius: 30px;
+    border: 2px solid rgb(253, 218, 232);
+    padding: 50px;
+}
+
+.right-photo{
+    width: 250px;
+    height: 50vh;
+    margin: 90px;
+    font-size: 30px;
+    background-color: rgb(238, 231, 245);
+    border-radius: 30px;
+    border: 2px solid rgb(252, 207, 224);
+    padding: 50px;
+}
+
+.num-one{
+    margin-top:200px;
+    margin-left: 90px;
+    font-size: 80px;
+    color: rgb(51, 2, 51);
+}
+
+.num-two{
+    margin-top:200px;
+    margin-left: 100px;
+    font-size: 80px;
+    color: rgb(51, 2, 51);
+}
+
+.name{
+   
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: rgb(81, 5, 83);
+}
+
+button{
+    background-color: rgb(51, 2, 51);
+    color: white;
+    height: 50px;
+    width: 150px;
+    border-radius: 50px ;
+    border: 2px solid rgb(240, 158, 171);
+    margin-top: 5px;
+    margin-left: 50px;
+    padding: 20px;
+    padding-top: 5px;
+    font-size: 30px;
+}
